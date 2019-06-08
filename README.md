@@ -96,7 +96,7 @@ Time taken was 0.062000 seconds
 
 The "dancing_links.pdf" file contains some additional documentation that I wrote up when trying to understand the algorithm.
 
-The original dancing links algorithm paper is in the "knuth_dancing_links_paper.pdf" file contained here.
+The original dancing links algorithm paper by Donald Knuth can be found here: https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf
 
 
 
